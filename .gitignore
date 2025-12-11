@@ -1,0 +1,12 @@
+
+transformer_bias_model/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+__pycache__/
+.vscode/
+*.zip
+venv/
+env/
+
